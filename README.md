@@ -1,10 +1,10 @@
 # toolbox
 
-Here is a list of useful softwares, frameworks and languages that I use to better navigate the web. 
+A complete list of the tools I use to navigate the web. 
 
 - **My favourites ! ;)** 🌟
 
-## Softwares
+## Business
 
 #### Agile & Management
 - **[Jira 🌟](https://www.atlassian.com/software/jira/)** – The #1 software development tool used by agile teams.
@@ -12,7 +12,11 @@ Here is a list of useful softwares, frameworks and languages that I use to bette
 
 #### Communication
 - **[Slack 🌟](https://slack.com/)** – A new way to communicate with your team.
+- **[Evernote 🌟](https://evernote.com/)** – A powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
+- **[Microsoft Team 🌟](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)** – Chat, meetings, calling, 
 - **[WeChat Work](https://work.weixin.qq.com/)** – An efficient enterprise-level office management platform.
+collaboration.
+- **[Zoom](https://zoom.us/)** – The leader in modern enterprise video communications.
 
 #### CRM
 - **[Copper 🌟](https://www.copper.com/)** – CRM Software Solutions Company.
@@ -21,7 +25,11 @@ Here is a list of useful softwares, frameworks and languages that I use to bette
 #### Accounting
 - **[Xero 🌟](https://www.xero.com/)** – A cloud-based accounting software.
 
-## Design & Photography
+#### Misc
+- **[1Password 🌟](https://1password.com/)** – The easiest way to store and use strong passwords.
+- **[Astrill 🌟](https://www.astrill.com/)** – Fast, secure & anonymous VPN
+
+## Design
 
 - **[Adobe XD 🌟](https://www.adobe.com/products/xd.html/)** – Fast & powerful UI/UX design & collaboration tool.
 - **[Figma](https://www.figma.com/)** – The collaborative interface design tools.
@@ -71,14 +79,6 @@ Here is a list of useful softwares, frameworks and languages that I use to bette
 - **[Docker 🌟](https://www.docker.com/)** –  A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 - **[Kubernetes](https://kubernetes.io/)** – An open-source system for automating deployment, scaling, and management of containerized applications.
 - **[Babel](https://gulpjs.com/)** – The compiler for next generation JavaScript.
-
-## Apps
-
-- **[Evernote 🌟](https://evernote.com/)** – A powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
-- **[1Password 🌟](https://1password.com/)** – The easiest way to store and use strong passwords.
-- **[Astrill 🌟](https://www.astrill.com/)** – Fast, secure & anonymous VPN
-
-
 
 
 
