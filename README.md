@@ -1,6 +1,6 @@
 # toolbox
 
-A complete list of the tools I use to navigate the web. 
+A complete list of the tools I use to better navigate the web. 
 
 - **My favourites ! ;)** 🌟
 
@@ -51,7 +51,7 @@ collaboration.
 - **[TailwindCSS 🌟](https://tailwindcss.com/)** – A utility-first CSS framework.
 - **[Bootstrap](https://getbootstrap.com/)** – The most popular HTML, CSS, and JS library in the world.
 
-#### Languages, Syntaxes & Templates engines
+#### Languages, Syntaxes & Template engines
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** – HyperText Markup Language.
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** – Cascading Style Sheets.
 - **[SaaS 🌟](https://sass-lang.com/)** – Syntactically Awesome Style Sheets, CSS with super powers !
