@@ -1,6 +1,6 @@
 # toolbox
 
-A complete list of the tools I use to better navigate the web. 
+A complete list of the tools I use to develop projects, better communicate and make my life easier. 
 
 - **My favourites ! ;)** 🌟
 
