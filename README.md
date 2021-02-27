@@ -6,7 +6,7 @@ A complete list of the tools I use to develop projects, better communicate and m
 
 ## Business
 
-#### Agile & Management
+#### Agile & Project Management
 - **[Jira 🌟](https://www.atlassian.com/software/jira/)** – The #1 software development tool used by agile teams.
 - **[Asana](https://app.asana.com/)** – A tool to manage your team's work, projects, & tasks online.
 
