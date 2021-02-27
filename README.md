@@ -51,6 +51,9 @@ collaboration.
 - **[TailwindCSS 🌟](https://tailwindcss.com/)** – A utility-first CSS framework.
 - **[Bootstrap](https://getbootstrap.com/)** – The most popular HTML, CSS, and JS library in the world.
 
+#### Databases
+- **[mySQL](https://www.mysql.com/)** – A fully managed database service to deploy cloud-native applications.
+
 #### Languages, Syntaxes & Template engines
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** – HyperText Markup Language.
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** – Cascading Style Sheets.
