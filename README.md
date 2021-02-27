@@ -1,6 +1,6 @@
 # toolbox
 
-A complete list of the tools I use to develop projects, better communicate and make my life easier. 
+A complete list of the tools I use to develop projects in teams, better communicate and make my life easier. 
 
 - **My favourites ! ;)** 🌟
 
@@ -52,7 +52,7 @@ collaboration.
 - **[Bootstrap](https://getbootstrap.com/)** – The most popular HTML, CSS, and JS library in the world.
 
 #### Databases
-- **[mySQL](https://www.mysql.com/)** – A fully managed database service to deploy cloud-native applications.
+- **[MySQL](https://www.mysql.com/)** – A fully managed database service to deploy cloud-native applications.
 
 #### Languages, Syntaxes & Template engines
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** – HyperText Markup Language.
