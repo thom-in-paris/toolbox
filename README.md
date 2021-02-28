@@ -10,12 +10,14 @@ A complete list of the tools I use to develop projects in teams, better communic
 - **[Jira 🌟](https://www.atlassian.com/software/jira/)** – The #1 software development tool used by agile teams.
 - **[Asana](https://app.asana.com/)** – A tool to manage your team's work, projects, & tasks online.
 
-#### Communication
+#### Collaboration
 - **[Slack 🌟](https://slack.com/)** – A new way to communicate with your team.
 - **[Evernote 🌟](https://evernote.com/)** – A powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
-- **[Microsoft Team 🌟](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)** – Chat, meetings, calling, 
+- **[Confluence 🌟](https://www.atlassian.com/software/confluence)** – Your Remote-Friendly Team Workspace | Atlassian.
 - **[WeChat Work](https://work.weixin.qq.com/)** – An efficient enterprise-level office management platform.
-collaboration.
+
+#### Visio
+- **[Microsoft Team 🌟](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)** – Chat, meetings, calling, collaboration.
 - **[Zoom](https://zoom.us/)** – The leader in modern enterprise video communications.
 
 #### CRM
@@ -45,8 +47,7 @@ collaboration.
 - **[Sublime Text](https://www.sublimetext.com/)** – A sophisticated text editor for code, markup and prose.
 
 #### Frameworks
-- **[React 🌟](https://www.jetbrains.com/webstorm/)** – A JavaScript library for building user interfaces.
-- **[React Native 🌟](https://reactnative.dev/)** – A framework for building native apps using React.
+- **[Gatsby 🌟](https://www.gatsbyjs.com/)** – A React-based open source framework.
 - **[Express](https://expressjs.com/)** – Node.js web application framework.
 - **[TailwindCSS 🌟](https://tailwindcss.com/)** – A utility-first CSS framework.
 - **[Bootstrap](https://getbootstrap.com/)** – The most popular HTML, CSS, and JS library in the world.
@@ -54,12 +55,11 @@ collaboration.
 #### Databases
 - **[MySQL](https://www.mysql.com/)** – A fully managed database service to deploy cloud-native applications.
 
-#### Languages, Syntaxes & Template engines
-- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** – HyperText Markup Language.
-- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** – Cascading Style Sheets.
+#### Languages & Libraries
+- **[React 🌟](https://reactjs.org/)** – A JavaScript library for building user interfaces.
+- **[React Native 🌟](https://reactnative.dev/)** – A framework for building native apps using React.
 - **[SaaS 🌟](https://sass-lang.com/)** – Syntactically Awesome Style Sheets, CSS with super powers !
 - **[JavaScript 🌟](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** – A lightweight, interpreted, or just-in-time compiled programming language.
-- **[JSX](https://reactjs.org/docs/introducing-jsx.html)** – A syntax extension to JavaScript for React.
 - **[TypeScript 🌟](https://www.typescriptlang.org/)** – An open-source language which builds on JavaScript.
 - **[Python](https://www.python.org/)** – Python is an interpreted, high-level and general-purpose programming language.
 - **[PHP](https://www.php.net/)** – A popular general-purpose scripting language.
@@ -69,7 +69,7 @@ collaboration.
 - **[GraphQL](https://graphql.org/)** – A query language for your API.
 
 #### CMS
-- **[Gatsby 🌟](https://www.gatsbyjs.com/)** – A React-based open source framework.
+- **[Contentful 🌟](https://www.contentful.com/)** – API-first content platform to build digital experiences.
 - **[Wordpress](https://wordpress.com/)** – The most popular open-source content management system in the world.
 
 #### Operating Systems
