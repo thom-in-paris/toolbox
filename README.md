@@ -9,6 +9,7 @@ A complete list of the tools I use to develop projects in teams, better communic
 #### Agile & Project Management
 - **[Jira 🌟](https://www.atlassian.com/software/jira/)** – The #1 software development tool used by agile teams.
 - **[Asana](https://app.asana.com/)** – A tool to manage your team's work, projects, & tasks online.
+- **[Trello](https://trello.com/en)** – Trello helps teams move work forward.
 
 #### Collaboration
 - **[Slack 🌟](https://slack.com/)** – A new way to communicate with your team.
@@ -17,12 +18,13 @@ A complete list of the tools I use to develop projects in teams, better communic
 - **[WeChat Work](https://work.weixin.qq.com/)** – An efficient enterprise-level office management platform.
 
 #### Visio
-- **[Microsoft Team 🌟](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)** – Chat, meetings, calling, collaboration.
 - **[Zoom](https://zoom.us/)** – The leader in modern enterprise video communications.
+- **[Microsoft Team](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)** – Chat, meetings, calling, collaboration.
 
 #### CRM
 - **[Copper 🌟](https://www.copper.com/)** – CRM Software Solutions Company.
 - **[Hubspot](https://www.hubspot.com/)** – A marketing, sales, and service software.
+- **[Pipedrive](https://www.pipedrive.com/)** – Sales CRM & Pipeline Management Software.
 
 #### Accounting
 - **[Xero 🌟](https://www.xero.com/)** – A cloud-based accounting software.
@@ -33,8 +35,8 @@ A complete list of the tools I use to develop projects in teams, better communic
 
 ## Design
 
+- **[Figma 🌟](https://www.figma.com/)** – The collaborative interface design tools.
 - **[Adobe XD 🌟](https://www.adobe.com/products/xd.html/)** – Fast & powerful UI/UX design & collaboration tool.
-- **[Figma](https://www.figma.com/)** – The collaborative interface design tools.
 - **[Photoshop](https://www.adobe.com/products/photoshop.html/)** – Photo, image & design editing software.
 - **[Illustrator](https://www.adobe.com/products/illustrator.html/)** – Industry-leading vector graphics software.
 - **[InDesign](https://www.adobe.com/products/indesign.html/)** – Layout design and desktop publishing software.
