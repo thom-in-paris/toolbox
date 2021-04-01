@@ -2,7 +2,7 @@
 
 A complete list of the tools, frameworks and libraries I use to develop projects in teams.
 
-- **My favourites ! ;)** 🌟
+- **My favourites !** 🌟
 
 ## Business
 
@@ -67,13 +67,9 @@ A complete list of the tools, frameworks and libraries I use to develop projects
 - **[Ubuntu](https://ubuntu.com/)** – A modern, open source operating system on Linux.
 
 #### Misc
-- **[Gulp 🌟](https://gulpjs.com/)** – A toolkit to automate & enhance your workflow.
+- **[Git 🌟](https://git-scm.com/)** – A free and open source distributed version control system.
+- **[Gulp](https://gulpjs.com/)** – A toolkit to automate & enhance your workflow.
 - **[Webpack](https://webpack.js.org/)** – A module bundler for JavaScript files.
 - **[Docker 🌟](https://www.docker.com/)** –  A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
-
-
-
-
-
 
 
