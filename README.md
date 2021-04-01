@@ -1,6 +1,6 @@
 # toolbox
 
-A complete list of the tools I use to develop projects in teams, better communicate and make my life easier. 
+A complete list of the tools, frameworks and libraries I use to develop projects in teams.
 
 - **My favourites ! ;)** 🌟
 
@@ -48,7 +48,8 @@ A complete list of the tools I use to develop projects in teams, better communic
 - **[WebStorm 🌟](https://www.jetbrains.com/webstorm/)** – One of the smartest JavaScript IDE by Jetbrains.
 - **[Sublime Text](https://www.sublimetext.com/)** – A sophisticated text editor for code, markup and prose.
 
-#### Frameworks
+#### Libraries & Frameworks
+- **[React 🌟](https://reactjs.org/)** – A JavaScript library for building user interfaces.
 - **[Gatsby 🌟](https://www.gatsbyjs.com/)** – A React-based open source framework.
 - **[Express](https://expressjs.com/)** – Node.js web application framework.
 - **[TailwindCSS 🌟](https://tailwindcss.com/)** – A utility-first CSS framework.
@@ -57,22 +58,9 @@ A complete list of the tools I use to develop projects in teams, better communic
 #### Databases
 - **[MySQL](https://www.mysql.com/)** – A fully managed database service to deploy cloud-native applications.
 
-#### Languages & Libraries
-- **[React 🌟](https://reactjs.org/)** – A JavaScript library for building user interfaces.
-- **[React Native 🌟](https://reactnative.dev/)** – A framework for building native apps using React.
-- **[SaaS 🌟](https://sass-lang.com/)** – Syntactically Awesome Style Sheets, CSS with super powers !
-- **[JavaScript 🌟](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** – A lightweight, interpreted, or just-in-time compiled programming language.
-- **[TypeScript 🌟](https://www.typescriptlang.org/)** – An open-source language which builds on JavaScript.
-- **[Python](https://www.python.org/)** – Python is an interpreted, high-level and general-purpose programming language.
-- **[PHP](https://www.php.net/)** – A popular general-purpose scripting language.
-- **[Twig](https://twig.symfony.com/)** – A modern template engine for PHP. 
-
-#### API
-- **[GraphQL](https://graphql.org/)** – A query language for your API.
-
-#### CMS
-- **[Contentful 🌟](https://www.contentful.com/)** – API-first content platform to build digital experiences.
-- **[Wordpress](https://wordpress.com/)** – The most popular open-source content management system in the world.
+#### Headless CMS
+- **[Prismic 🌟](https://prismic.io/)** – The Headless website builder for Jamstack.
+- **[Contentful](https://www.contentful.com/)** – API-first content platform to build digital experiences.
 
 #### Operating Systems
 - **[MacOS 🌟](https://www.apple.com/macos/)** – The Mac operating system.
@@ -82,8 +70,6 @@ A complete list of the tools I use to develop projects in teams, better communic
 - **[Gulp 🌟](https://gulpjs.com/)** – A toolkit to automate & enhance your workflow.
 - **[Webpack](https://webpack.js.org/)** – A module bundler for JavaScript files.
 - **[Docker 🌟](https://www.docker.com/)** –  A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
-- **[Kubernetes](https://kubernetes.io/)** – An open-source system for automating deployment, scaling, and management of containerized applications.
-- **[Babel](https://gulpjs.com/)** – The compiler for next generation JavaScript.
 
 
 
