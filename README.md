@@ -4,21 +4,21 @@ A complete list of the tools, frameworks and libraries I use to develop projects
 
 - **My favourites !** 🌟
 
+## Productivity
+
 #### Collaboration
 - **[Notion 🌟](https://www.notion.so/)** – A new tool that blends your everyday work apps into one.
 - **[Slack 🌟](https://slack.com/)** – A new way to communicate with your team.
 - **[Jira 🌟](https://www.atlassian.com/software/jira/)** – The #1 software development tool used by agile teams.
 - **[Asana](https://app.asana.com/)** – A tool to manage your team's work, projects, & tasks online.
-- **[Confluence](https://www.atlassian.com/software/confluence)** – Your Remote-Friendly Team Workspace | Atlassian.
 - **[Evernote](https://evernote.com/)** – A powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
-- **[WeChat Work](https://work.weixin.qq.com/)** – An efficient enterprise-level office management platform.
 
 #### CRM
 - **[Copper 🌟](https://www.copper.com/)** – CRM Software Solutions Company.
 - **[Hubspot](https://www.hubspot.com/)** – A marketing, sales, and service software.
-- **[Pipedrive](https://www.pipedrive.com/)** – Sales CRM & Pipeline Management Software.
 
 #### Misc
+- **[Calendly 🌟](https://calendly.com/)** – Free Online Appointment Scheduling Software.
 - **[1Password 🌟](https://1password.com/)** – The easiest way to store and use strong passwords.
 - **[Astrill 🌟](https://www.astrill.com/)** – Fast, secure & anonymous VPN
 
